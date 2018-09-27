@@ -1,0 +1,14 @@
+[
+  {
+    "name":"robot",
+    "className":"com.ezhomesixgod.entity.Robot"
+  },
+  {
+    "name":"hand",
+    "className":"com.ezhomesixgod.entity.Hand"
+  },
+  {
+    "name":"mouth",
+    "className":"com.ezhomesixgod.entity.Mouth"
+  }
+]
